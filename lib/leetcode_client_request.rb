@@ -1,10 +1,13 @@
+require 'faraday'
+
 module LeetcodeClient
   class Request
-    
+    attr_accessor :url_base
+
     def initialize(attrs = {})
+      @url_base = attrs[:url_base] || 'https://leetcode.com/'
     end 
     
-    LEETCODE_BASE_URL = 'https://leetcode.com/'.freeze
     def response 
         leetcode_connection.send(http_method, path) do |req|
           req.body = request_body.to_json
@@ -13,10 +16,10 @@ module LeetcodeClient
         end
     end 
     
-    private
+    # private
 
     def leetcode_connection
-      @connection ||= Faraday.new(url: LEETCODE_BASE_URL) do |builder|
+      @connection ||= Faraday.new(url: @url_base) do |builder|
         builder.adapter Faraday.default_adapter
       end 
     end 
@@ -37,3 +40,4 @@ module LeetcodeClient
   class TestRequest < Request
   end 
 end 
+
