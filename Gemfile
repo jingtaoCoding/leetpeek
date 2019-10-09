@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'net-http-persistent', '~> 3.1'
 gem 'rest-client', '~> 2.0'
+gem 'faraday', '~> 0.17.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
