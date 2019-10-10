@@ -1,0 +1,10 @@
+
+require:
+  - rubocop-rails
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: single_quotes
+
+Metrics/LineLength:
+  Max: 120

@@ -1,13 +1,37 @@
 #!/usr/bin/ruby
+# frozen_string_literal: true
 
 require 'faraday'
 
-con = Faraday.new :url => "http://www.something.com"
+list_file = './db/leetcode_list.json'
+dst_folder = './db/generated/'
 
-res = con.head 
+return unless File.exist?(list_file)
 
-puts res.headers['server']
-puts res.headers['date']
-puts res.headers['last-modified']
-puts res.headers['content-type']
-puts res.headers['content-length']
+list = File.read(list_file)
+json = JSON.parse(list)
+
+def create_md_file(output_file, p = {})
+  return if p.blank?
+
+  puts p[:id]
+  f = File.new(output_file, 'w+')
+  f.puts("##{p[:id]}: #{p[:title]}")
+  f.puts
+  f.puts("## Difficulty: #{p[:difficulty]}")
+  f.puts
+  f.puts
+  f.close
+end
+
+json['stat_status_pairs'].each do |x|
+  p = {}
+  p[:id] = x['stat']['question_id']
+  p[:title] = x['stat']['question__title']
+  p[:title_slug] = x['stat']['question__title_slug']
+  p[:difficulty] = x['difficulty']['level']
+  output_file = dst_folder + "leetcode_#{p[:id]}.md"
+  next if File.exist?output_file
+
+  create_md_file(output_file, p)
+end
