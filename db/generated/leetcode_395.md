@@ -1,0 +1,6 @@
+#395: Longest Substring with At Least K Repeating Characters
+
+## Difficulty: 2
+
+
+tests x------

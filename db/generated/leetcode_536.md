@@ -1,0 +1,6 @@
+#536: Construct Binary Tree from String
+
+## Difficulty: 2
+
+
+tests x------

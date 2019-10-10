@@ -1,0 +1,6 @@
+#1279: Prime Arrangements
+
+## Difficulty: 1
+
+
+tests x------

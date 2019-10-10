@@ -1,0 +1,6 @@
+#8: String to Integer (atoi)
+
+## Difficulty: 2
+
+
+tests x------

@@ -1,0 +1,6 @@
+#857: Positions of Large Groups
+
+## Difficulty: 1
+
+
+tests x------

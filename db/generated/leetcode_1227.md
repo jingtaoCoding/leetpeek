@@ -1,0 +1,6 @@
+#1227: Number of Equivalent Domino Pairs
+
+## Difficulty: 1
+
+
+tests x------

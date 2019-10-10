@@ -1,0 +1,6 @@
+#934: Bitwise ORs of Subarrays
+
+## Difficulty: 2
+
+
+tests x------

@@ -1,0 +1,6 @@
+#998: Check Completeness of a Binary Tree
+
+## Difficulty: 2
+
+
+tests x------

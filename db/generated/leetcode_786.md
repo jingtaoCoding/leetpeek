@@ -1,0 +1,6 @@
+#786: Search in a Sorted Array of Unknown Size
+
+## Difficulty: 2
+
+
+tests x------

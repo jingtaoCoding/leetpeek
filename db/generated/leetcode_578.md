@@ -1,0 +1,6 @@
+#578: Get Highest Answer Rate Question
+
+## Difficulty: 2
+
+
+tests x------

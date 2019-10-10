@@ -1,0 +1,6 @@
+#1156: Occurrences After Bigram
+
+## Difficulty: 1
+
+
+tests x------

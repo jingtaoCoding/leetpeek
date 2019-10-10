@@ -1,0 +1,6 @@
+#1050: Construct Binary Search Tree from Preorder Traversal
+
+## Difficulty: 2
+
+
+tests x------

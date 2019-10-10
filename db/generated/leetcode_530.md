@@ -1,0 +1,6 @@
+#530: Minimum Absolute Difference in BST
+
+## Difficulty: 1
+
+
+tests x------

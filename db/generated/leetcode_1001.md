@@ -1,0 +1,6 @@
+#1001: N-Repeated Element in Size 2N Array
+
+## Difficulty: 1
+
+
+tests x------

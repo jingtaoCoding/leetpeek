@@ -1,0 +1,6 @@
+#1102: Check If a Number Is Majority Element in a Sorted Array
+
+## Difficulty: 1
+
+
+tests x------

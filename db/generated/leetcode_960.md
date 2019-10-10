@@ -1,0 +1,6 @@
+#960: Minimize Malware Spread
+
+## Difficulty: 3
+
+
+tests x------

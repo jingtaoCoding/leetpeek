@@ -1,0 +1,6 @@
+#1032: Satisfiability of Equality Equations
+
+## Difficulty: 2
+
+
+tests x------

@@ -1,0 +1,6 @@
+#30: Substring with Concatenation of All Words
+
+## Difficulty: 3
+
+
+tests x------

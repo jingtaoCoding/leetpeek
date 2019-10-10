@@ -1,0 +1,6 @@
+#992: Delete Columns to Make Sorted II
+
+## Difficulty: 2
+
+
+tests x------

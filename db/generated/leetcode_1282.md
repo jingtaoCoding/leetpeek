@@ -1,0 +1,6 @@
+#1282: Number of Valid Words for Each Puzzle
+
+## Difficulty: 3
+
+
+tests x------

@@ -1,0 +1,6 @@
+#181: Employees Earning More Than Their Managers
+
+## Difficulty: 1
+
+
+tests x------

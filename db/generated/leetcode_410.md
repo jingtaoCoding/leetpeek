@@ -1,0 +1,6 @@
+#410: Split Array Largest Sum
+
+## Difficulty: 3
+
+
+tests x------

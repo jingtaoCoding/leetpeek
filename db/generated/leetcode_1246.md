@@ -1,0 +1,6 @@
+#1246: User Activity for the Past 30 Days II
+
+## Difficulty: 1
+
+
+tests x------
