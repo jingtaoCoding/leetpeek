@@ -1,5 +1,0 @@
-#201: Bitwise AND of Numbers Range
-
-## Difficulty: 2
-
-xxxyyy

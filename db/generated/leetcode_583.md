@@ -1,5 +1,0 @@
-#583: Delete Operation for Two Strings
-
-## Difficulty: 2
-
-xxxyyy

@@ -1,5 +1,0 @@
-#624: Maximum Distance in Arrays
-
-## Difficulty: 1
-
-xxxyyy

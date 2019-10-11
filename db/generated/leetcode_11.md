@@ -1,5 +1,0 @@
-#11: Container With Most Water
-
-## Difficulty: 2
-
-xxxyyy

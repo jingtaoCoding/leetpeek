@@ -1,5 +1,0 @@
-#561: Array Partition I
-
-## Difficulty: 1
-
-xxxyyy

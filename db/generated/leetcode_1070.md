@@ -1,5 +1,0 @@
-#1070: Convert to Base -2
-
-## Difficulty: 2
-
-xxxyyy

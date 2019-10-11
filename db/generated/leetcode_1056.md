@@ -1,5 +1,0 @@
-#1056: Capacity To Ship Packages Within D Days
-
-## Difficulty: 2
-
-xxxyyy

@@ -1,5 +1,0 @@
-#1003: Minimum Area Rectangle II
-
-## Difficulty: 2
-
-xxxyyy

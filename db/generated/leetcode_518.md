@@ -1,5 +1,0 @@
-#518: Coin Change 2
-
-## Difficulty: 2
-
-xxxyyy

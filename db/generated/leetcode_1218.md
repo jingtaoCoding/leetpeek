@@ -1,5 +1,0 @@
-#1218: Lowest Common Ancestor of Deepest Leaves
-
-## Difficulty: 2
-
-xxxyyy

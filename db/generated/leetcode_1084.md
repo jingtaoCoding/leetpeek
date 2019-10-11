@@ -1,5 +1,0 @@
-#1084: Find K-Length Substrings With No Repeated Characters
-
-## Difficulty: 2
-
-xxxyyy

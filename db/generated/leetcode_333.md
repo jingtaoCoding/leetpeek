@@ -1,5 +1,0 @@
-#333: Largest BST Subtree
-
-## Difficulty: 2
-
-xxxyyy

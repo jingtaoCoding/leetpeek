@@ -1,5 +1,0 @@
-#1209: Design Bounded Blocking Queue
-
-## Difficulty: 2
-
-xxxyyy

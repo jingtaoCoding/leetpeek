@@ -1,5 +1,0 @@
-#813: All Paths From Source to Target
-
-## Difficulty: 2
-
-xxxyyy

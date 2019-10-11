@@ -1,5 +1,0 @@
-#312: Burst Balloons
-
-## Difficulty: 3
-
-xxxyyy

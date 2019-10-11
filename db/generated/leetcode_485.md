@@ -1,5 +1,0 @@
-#485: Max Consecutive Ones
-
-## Difficulty: 1
-
-xxxyyy

@@ -1,5 +1,0 @@
-#713: Subarray Product Less Than K
-
-## Difficulty: 2
-
-xxxyyy

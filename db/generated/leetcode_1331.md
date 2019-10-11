@@ -1,5 +1,0 @@
-#1331: Path with Maximum Gold
-
-## Difficulty: 2
-
-xxxyyy

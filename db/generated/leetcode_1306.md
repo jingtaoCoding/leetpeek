@@ -1,5 +1,0 @@
-#1306: Minimum Absolute Difference
-
-## Difficulty: 1
-
-xxxyyy

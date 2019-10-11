@@ -1,5 +1,0 @@
-#1161: Project Employees I
-
-## Difficulty: 1
-
-xxxyyy

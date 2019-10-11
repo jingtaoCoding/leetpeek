@@ -1,5 +1,0 @@
-#1188: Brace Expansion II
-
-## Difficulty: 3
-
-xxxyyy

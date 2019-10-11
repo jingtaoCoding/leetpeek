@@ -1,5 +1,0 @@
-#2: Add Two Numbers
-
-## Difficulty: 2
-
-xxxyyy

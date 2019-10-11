@@ -1,5 +1,0 @@
-#1067: Campus Bikes II
-
-## Difficulty: 2
-
-xxxyyy

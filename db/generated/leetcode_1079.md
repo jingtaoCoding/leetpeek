@@ -1,5 +1,0 @@
-#1079: Sum of Root To Leaf Binary Numbers
-
-## Difficulty: 1
-
-xxxyyy

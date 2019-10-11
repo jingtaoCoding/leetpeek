@@ -1,5 +1,0 @@
-#352: Data Stream as Disjoint Intervals
-
-## Difficulty: 3
-
-xxxyyy

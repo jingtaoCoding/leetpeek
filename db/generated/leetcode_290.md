@@ -1,5 +1,0 @@
-#290: Word Pattern
-
-## Difficulty: 1
-
-xxxyyy

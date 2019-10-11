@@ -1,5 +1,0 @@
-#1029: Vertical Order Traversal of a Binary Tree
-
-## Difficulty: 2
-
-xxxyyy

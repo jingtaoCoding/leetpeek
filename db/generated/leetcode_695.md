@@ -1,5 +1,0 @@
-#695: Max Area of Island
-
-## Difficulty: 2
-
-xxxyyy

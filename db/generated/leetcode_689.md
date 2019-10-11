@@ -1,5 +1,0 @@
-#689: Maximum Sum of 3 Non-Overlapping Subarrays
-
-## Difficulty: 3
-
-xxxyyy

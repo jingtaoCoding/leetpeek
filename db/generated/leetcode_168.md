@@ -1,5 +1,0 @@
-#168: Excel Sheet Column Title
-
-## Difficulty: 1
-
-xxxyyy

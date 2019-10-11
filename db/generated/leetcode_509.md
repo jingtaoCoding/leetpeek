@@ -1,5 +1,0 @@
-#509: Inorder Successor in BST II
-
-## Difficulty: 2
-
-xxxyyy
